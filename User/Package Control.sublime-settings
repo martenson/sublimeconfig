@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"Alignment",
+		"BracketHighlighter",
+		"DiffTabs",
+		"DocBlockr",
+		"FileDiffs",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Indent XML",
+		"JsFormat",
+		"LESS",
+		"Mako",
+		"MarkdownHighlighting",
+		"MarkdownPreview",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Pug",
+		"Python PEP8 Autoformat",
+		"RestructuredText Improved",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-contrib-yamllint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-json",
+		"SublimeLinter-shellcheck",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"Vue Syntax Highlight"
+	]
+}

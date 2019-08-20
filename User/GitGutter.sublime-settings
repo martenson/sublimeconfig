@@ -1,0 +1,8 @@
+// GitGutter Settings - User
+{
+	"diff_popup_default_mode": "diff",
+	// "diff_popup_use_icon_buttons": false,
+	"show_in_minimap": 5,
+    "show_line_annotation": "false",
+
+}

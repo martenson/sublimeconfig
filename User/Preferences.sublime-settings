@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/User/Oceanic Next (SL) (Flake8Lint).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 19,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"RestructuredText",
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
